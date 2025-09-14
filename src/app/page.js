@@ -45,6 +45,11 @@ const Page = () => {
           </a>
         </div>
       </div>
+
+      {/* Last Note */}
+      <p className="mt-6 text-center text-gray-600 text-sm italic max-w-md">
+        This is purely made for 1st year. At present only 1st sem resources are there.
+      </p>
     </div>
   );
 };
