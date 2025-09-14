@@ -15,6 +15,7 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "IIIT BH",
   description: "Created by Twinkle",
+  manifest:"/manifest.json"
 };
 
 export default function RootLayout({ children }) {
