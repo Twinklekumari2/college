@@ -21,7 +21,7 @@ const Page = () => {
       <div className="max-w-2xl bg-white shadow-md rounded-2xl p-6 text-gray-800 text-center">
         <h1 className="text-2xl font-bold text-blue-600 mb-4">About Myself</h1>
         <p className="text-base leading-relaxed mb-6">
-          I am <span className="font-semibold">Twinkle Kumari, from CSE'28</span>.  
+          I am <span className="font-semibold">Twinkle Kumari, from CSE&apos;28</span>.  
           I have made this website so that you can find everything at one place.  
           If you think that I have missed something or if you want to add extra things,  
           then you can contact me through the buttons below 👇
