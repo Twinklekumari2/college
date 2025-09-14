@@ -8,15 +8,15 @@ const data = [
       "Jaisa notes/copy/pdf mei likha rehta hai vaisa hi same paper mei likhna hota hai. Like sir theroem bhi puchte hai as it is. Kisi bhi ques mei direct answer nhi likhna hai. pehle theory se hi start krna hai",
     source: "notes/pdf/pyq",
   },
-  { name: "Purnendu sir", evaluation: "notes  aur questions ko dhyan se padh lena hota h . Aur uske baad pyqs must h", source: "—" },
-  { name: "Sateesh sir", evaluation: "jo class mein likhwate h aur drawings banwate h , wo sab important h and again pyqs important h", source: "—" },
+  { name: "Purnendu sir", evaluation: "notes  aur questions ko dhyan se padh lena hota h . Aur uske baad pyqs must h", source: "tikle academy" },
+  { name: "Sateesh sir", evaluation: "jo class mein likhwate h aur drawings banwate h , wo sab important h and again pyqs important h", source: "tikle academy" },
   {
     name: "Uday sir",
     evaluation:
       "Padhate acha hai. jo copy mei likhwate hia usi mei se paper mei aata hai. inke paper mei mcq and ans/ques honge equal weightage ka hota hai",
     source: "class notes",
   },
-  { name: "Sunil sir", evaluation: "pyqs , derivations and wo jo book suggest karte h , uske questions especially examples jaroori h", source: "--" },
+  { name: "Sunil sir", evaluation: "pyqs , derivations and wo jo book suggest karte h , uske questions especially examples jaroori h", source: "tikle academy" },
 ]
 
 const Page = () => {
