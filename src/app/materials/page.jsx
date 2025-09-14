@@ -3,10 +3,10 @@ import React from "react";
 const data = [
   { name: "Computer Programming [CS101]     {{----for all----}}", link1: "/c-prog.pdf", link2: "" },
   { name: "Basic Electrical Engg. [EC102]   {{---- for MAE, ECE ----}}", link1: "/basic-electrical.pdf", link2: "" },
-  { name: "Professional Communication [HS101]     {{----for all----}}", link1: "", link2: "" },
+  { name: "Professional Communication [HS101]     {{----for all----}}", link1: "/hs.pdf", link2: "" },
   { name: "Engg. Maths-I [MA101] {{---Except MNC---}}", link1: "/maths.pdf", link2: "" },
   { name: "Engg. Graphics [ME02] {{---for CSE, MAE---}}", text: "isme sirf lab hoti hai" },
-  { name: "Engg. Materials [ME103]  {{---- for MAE -----}}", link1: "", link2: "" },
+  { name: "Engg. Materials [ME103]  {{---- for MAE -----}}", link1: "/materials.pdf", link2: "" },
 ];
 
 const Page = () => {
@@ -37,7 +37,7 @@ const Page = () => {
                       rel="noopener noreferrer"
                       className="px-3 py-1 bg-blue-600 text-white rounded-md hover:bg-blue-700"
                     >
-                      PDF 1
+                      PYQ
                     </a>
                   )}
                   {item.link2 && (
